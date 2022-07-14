@@ -1,0 +1,11 @@
+List of commands -
+
+Random - Gives you a random map and random difficulty
+R (map name or difficulty) - Removes the map or difficulty from the random choice of maps/difficultys
+P/Phasmo/Phasmophobia - Starts Phasmophobia
+Doc/Cheat/Sheet - Starts the Phasmophobia Cheat Sheet Text File
+D/Discord - Opens Discord
+T/Trello - Opens the Phasmophobia Tello Page in the browser
+C/Close - Closes Phasmophobia
+J/Journal - Opens a Phasmophobia Useful Journal
+M/Map (map name or "Website") - Opens a image of the layout of the map name, or opens a website with all the layouts for the maps
