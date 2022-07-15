@@ -1,0 +1,303 @@
+5:47 PM 7/14/2022
+___________________________________________________________________
+
+Hunts -
+
+•Demon - Always - 70%
+       - Ability - Any%
+•Deogen - Always - 40%
+•Mare - Lights turned off at ghost's room - 60%
+      - Lights turned on at ghost's room - 40%
+•Onyro - Always - 60%
+       - After blowing out a candle - Any%
+•Raiju - In the presence of active eletronic equipment - 65%
+•Shade - Always - 35%
+•Thaye - Initial threshold (Age 0) - 75%
+       - Modifier per age added (Age +1) - -6%
+       - Final threshold (Age 10) - 15%
+•Yokai - When players are talking within 2 meters of the ghost - 80%
+•All other ghosts - 50%
+___________________________________________________________________
+
+Nightmare Evidence - 
+
+•Goryo - always have D.O.T.S as one of the two evidences
+•Hantu - always have Freezing Tempatures as one of the two evidences
+•Mimic - always have Ghost Orbs as one of the three evidences
+•Moroi and Deogen - always have Spirit Box as one of the two evidences
+•Obake - always have Fingerprints as one of the two evidences
+___________________________________________________________________
+
+Tarot Cards - 
+
+•The Sun - 5% - Fully restores sanity to 100%
+•The Moon - 5% - Instantly drops sanity to 0%
+•The Tower - 20% - Causes an interaction
+•The High Preistess - 2% - Revives a randomly chosen dead person
+•The Hanged Man - 1% - Instantly kills the player
+•Death - 10% - Triggers a cursed hunt
+•The Wheel of Fortune - 20% - If green players gains 25% sanity, if red player loses 25% sanity
+•The Devil - 10% - Triggers a ghost event
+•The Hermit - 10% - Traps the ghost in the ghost rooms for 1 minute. This does not affect hunts
+•The Fool - 17% - Will appear as another card at first before turning into the fool
+	  - 100% During hunts
+___________________________________________________________________
+
+Lights and Breaker - 
+
+•Hantu - Can't turn breaker on
+•Jinn - Can't turn breaker off
+•Mare - can't turn lights on
+•All ghosts can turn lights off
+___________________________________________________________________
+
+Photo Rewards -
+
+- 500 Points for a perfect game
+
+•Ghost - 1 Star - 80P
+       - 2 Star - 90P
+       - 3 Star - 100P
+•Bone - 1 Star - 50P
+      - 2 Star - 60P
+      - 3 Star - 70P
+•Cursed Possession - 1 Star - 30P
+		   - 2 Star - 45P
+		   - 3 Star - 60P
+•Fingerprints - 1 Star - 15P
+	      - 2 Star - 35P
+	      - 3 Star - 50P
+•Footprints - 1 Star - 20P
+	    - 2 Star - 30P
+	    - 3 Star - 40P
+•Interaction - 1 Star - 20P
+	     - 2 Star - 30P
+  	     - 3 Star - 40P
+•Dead Body - 1 Star - 10P
+	   - 2 Star - 20P
+           - 3 Star - 30P
+•Dirty Water - 1 Star - 15P
+	     - 2 Star - 25P
+             - 3 Star - 35P
+___________________________________________________________________
+
+
+EMF Levels -
+
+•EMF 1 - Blue - Nothing, default state
+•EMF 2 - Green - Interacting with an object
+•EMF 3 - Yellow - Throwing an object
+•EMF 4 - Orange - Manifestation
+•EMF 5 - Red - Evidence (25% chance)
+___________________________________________________________________
+
+Shade's ghost events - 
+
+•100% sanity - 0% chance of ghost events
+•Every -1% sanity - +2% chance of ghost events
+•50% sanity - 100% chance of ghost events
+___________________________________________________________________
+
+Obake's Fingerprints -
+
+•25% chance of not leaving fingerprints
+•~16.7% chance of leaving a six-fingered handprint
+___________________________________________________________________
+
+Demon - 
+
+•Demons have an ability which they can hunt regardless of the team all sanity
+•Demons have a minimum cooldown of 20 seconds between hunts, instead of the usual 25 seconds
+•Smudging a demon will prevent hunts for only 60 seconds, instead of 90 seconds
+•Crucifix range increased to 5 meters instead of the usual 3 meters
+•Guaranteed Spirit Box on Nightmare mode
+___________________________________________________________________
+
+Banshee -
+
+•Hunts only its target and only checks target sanity before hunting, unless target is outside
+•Will often wander to target
+•Prefers singing during ghost events; these drain +5% sanity
+•May shriek through paramic
+___________________________________________________________________
+
+Deogen -
+
+•Can detect player locations during hunt; players cannot hide
+•Chooses closet player at start of hunt; randomly changes to nearer players
+•Moves at max speed (3M/s) beyond 6M path distance from a player, slowing to 0.4M/s within 2.5M
+•Can hunt at 40% sanity
+•Increased chance for DOTS and Ghost Writing
+___________________________________________________________________
+
+Goryo - 
+
+•Will never perform a long roam from the ghost room
+•Won't show DOTS with people in ghost room
+•DOTS can only be observed through a camera
+•Guaranteed DOTS on Nightmare mode
+___________________________________________________________________
+
+
+Hantu - 
+
+•2x as likely to turn off breaker
+•Speed never ramps during hunt; moves slower in warm rooms, faster in cold
+•Moves just slower than player speed at 15°C
+•Can breathe mist in rooms below 3°C when hunting
+•Guaranteed Freezing Tempatures on Nightmare mode
+___________________________________________________________________
+
+
+Jinn -
+
+•Will never turn off breaker
+•With breaker on, chance to drop sanity by 25% within 3M
+•During hunt with breaker on, will be 2.5x player speed when chasing, until within 2M of target
+___________________________________________________________________
+
+
+Mare -
+
+•Cannot turn light switches on
+•Prefers to turn off lights as interactions
+•Can instantly turn off switches as they are turned on
+•Prefers to blow up lights during ghost events
+•Will attempt long roams to escape lit rooms
+•Rooms lights on reduces hunt threshold to 40%
+•Rooms lights off increases hunt threshold to 60%
+___________________________________________________________________
+
+Mimic -
+
+•Can behave as any other ghost, including hunt behaviour and triggers
+•Will change behaviour no more than once per-minute
+•Shows false ghost orbs
+•When mimicking Thaye, chooses random starting age; will change ghosts when ageing stage occurs
+•Guaranteed fake Ghost Orbs on Nightmare mode
+___________________________________________________________________
+
+Moroi -
+
+•Curses Spirit Box or Paramic Microphone user; sanity drops while indoors until pills taken
+•Also curses paramic users upon footsteps or whispers
+•Cursed players' sanity drop rate doubled 
+•Moves faster at lower average sanity; 90% player speed at 50% sanity, 115% at 25% sanity, 135% at 0% sanity
+•Smudge stick targeting grace period lasts 2x as long (12s)
+•Guaranteed Spirit Box on Nightmare mode
+___________________________________________________________________
+
+Myling -
+
+•Speaks more often to the paramic
+•Footsteps are very quiet during hunts; equipment may malfunction before footsteps are heard
+___________________________________________________________________
+
+Obake -
+
+•Can leave six-fingered fingerprints
+•-25% chance to leave fingerprints
+•Fingerprints can disappear after 50% of normal time
+•Guaranteed Fingerprints on Nightmare mode
+___________________________________________________________________
+
+Oni -
+
+•One of the most active ghost types
+•Can throw items at high speed
+•Will not perform the mist ball ghost event
+•Prefers physical form for ghost events
+___________________________________________________________________
+
+Onyro -
+
+•Will blow out candles more often than other ghosts
+•50% chance to hunt when flame is extingushed below 80% sanity (except first three blowouts)
+•+25% hunt chance per dead player
+•Can hunt from 60% sanity without flame in room
+•Candles act as crucifixes with 4M hunt blocking range. Has precedence over crucifix
+•When candle prevents hunt, it is blown out
+___________________________________________________________________
+
+Phantom -
+
+•Disappears but remains when photo is taken while not hunting
+•Sanity drops 2x when visible (stops if hidden due to photo)
+•Can wander to indoor player
+•Blinks very slowy during hunt
+___________________________________________________________________
+
+Poltergeist -
+
+•Can throw several items at once
+•Reduces witness sanity by 2x thrown items
+___________________________________________________________________
+
+Raiju - 
+
+•Can hunt at 65% when near electronics
+•Greatly increased speed during hunt when near electronics
+•Has an incrased range of electrical disruption
+___________________________________________________________________
+
+Revenant -
+
+•Travels very fast when it can see a player
+•Travels very slower when not seeing players
+___________________________________________________________________
+
+Shade -
+
+•Very inactive
+•Won't throw anything with anyone in the ghost room
+•Ghost event chance linked to sanity loss; normal chances below 50%
+•Prefers breath ghost events
+•Prefers shadow form during ghost events
+•Cannot hunt above 35% sanity
+•Won't try to hunt with anyone in room
+___________________________________________________________________
+
+Spirit - 
+
+•Smudges last twice as long: 180s
+___________________________________________________________________
+
+Thaye - 
+
+•2x chances to interact and perform ghost events
+•Increased chance for DOTS and Ghost Writing
+•Attempts to age every 1-2 minutes; if no players are in the ghost room, retries every 30s until success
+•While young, can hunt at 75% sanity; -6% sanity per ageing stage
+•10 ageing stages; interaction and ghost event chance reduced by 15% per ageing stage, down to 50%
+•Speed reduced by 10% player speed per ageing stage, from 166% player speed to 60%,   does not speed up during hunts
+•While old, can hunt at 15% sanity
+•While old, won't try to hunt with anyone in room
+___________________________________________________________________
+
+Twins -
+
+•Both twins can interact one after the other
+•Decoy twin will not trigger sensors or give evidence (except EMF)
+•During hunts, main twin moves at -10%, decoy moves at +10%
+•Decoy hunts will start immediately after a decoy interaction
+___________________________________________________________________
+
+Wraith -
+
+•When loud-stepping after salt, no footprints show
+•After stepping in salt, becomes permanently more active
+•Can teleport near a random indoor player and leave EMF
+___________________________________________________________________
+
+Yokai -
+
+•Increased activity when speaking near the ghost
+•Can hunt below 80% when players are talking nearby
+•Can only hear players <2M away during hunts
+___________________________________________________________________
+
+Yurei -
+
+•Chance to drop sanity by 13% within 3M (slams a nearby door, delayed door slamming sound)
+•Cannot roam while smudged
+___________________________________________________________________
