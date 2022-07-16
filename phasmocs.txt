@@ -1,4 +1,4 @@
-5:47 PM 7/14/2022
+9:41 PM 7/15/2022
 ___________________________________________________________________
 
 Hunts -
@@ -17,6 +17,26 @@ Hunts -
        - Final threshold (Age 10) - 15%
 •Yokai - When players are talking within 2 meters of the ghost - 80%
 •All other ghosts - 50%
+___________________________________________________________________
+
+Hunt duration -
+
+•Amateur - Small map - 15 seconds
+	 - Medium map - 30 seconds
+	 - Large map - 40 seconds
+•Intermediate - Small map - 20 seconds
+	      - Medium map - 40 seconds
+	      - Large map - 50 seconds
+•Professional & Nightmare - Small map - 30 seconds
+			  - Medium map - 50 seconds
+			  - Large map - 1 minute
+___________________________________________________________________
+
+Setup phase -
+
+•Amateur - 5 minutes
+•Intermediate - 2.5 minutes
+•Professional & Nightmare - No setup phase
 ___________________________________________________________________
 
 Nightmare Evidence - 
