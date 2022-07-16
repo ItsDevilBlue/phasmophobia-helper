@@ -2,11 +2,11 @@ import os
 import random
 import webbrowser
 import subprocess
-discord = open('discordpath.txt', 'r')
-phasmophobia = open('phasmophobiapath.txt', 'r')
+paths = open('paths.txt', 'r')
+all_paths = paths.read()
+all_paths = all_paths.split(', ')
 maps = ['bleadsdale', 'edgefield', 'grafton', 'ridgeview', 'tanglewood', 'willow', 'brownstone', 'maple', 'prison', 'asylum']
 difficultys = ['amateur', 'intermediate', 'professional', 'nightmare']
-
 def main():
     random_map = random.choice(maps)
     random_difficulty = random.choice(difficultys)
@@ -32,15 +32,15 @@ def main():
             main()
         if word == 'p' or word == 'phasmo' or word == 'phasmophobia':
             print("\nStarting Phasmophobia...\n")
-            os.startfile(phasmophobia.read())
+            os.startfile(all_paths[1])
             main()
         if word == 's' or word == 'cheat' or word == 'doc' or word == 'sheet':
             print("\nStarting Phasmophobia Cheat Sheet...\n")
-            os.startfile("phasmocs.txt")
+            os.startfile('phasmocs.txt')
             main()
         if word == 'd' or word == 'discord':
             print("\nStarting Discord...\n")
-            os.startfile(discord.read())
+            os.startfile(all_paths[0])
             main()
         if word == 't' or word == 'trello':
             print("\nOpening Phasmophobia Tello Page...\n")
